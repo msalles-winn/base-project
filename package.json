@@ -1,0 +1,12 @@
+{
+  "name": "base-project",
+  "version": "0.0.1",
+  "description": "API Server running with NodeJS",
+  "main": "server.js",
+  "author": "Médéric Salles",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.13.4",
+    "body-parser": "~1.15.1"
+  }
+}
