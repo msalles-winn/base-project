@@ -12,7 +12,7 @@ You will create a REST API service with NodeJS to serve a "Transport" object wit
  * The transport objects are stored in-memory.
  * The GUI contains 2 pages : a list of transports, all informations are presented into a table, update, delete actions in a column, and a page with a form to add or edit a transport.
 
-We start the server with following command : npm start, do not forget tests (Mocha) and documentation (API JS DOC) !
+We start the server with following command : npm start, do not forget tests (Mocha) and documentation (APIDOCJS.com) !
 
 ## To easy for you ?
 
