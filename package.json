@@ -1,7 +1,7 @@
 {
   "name": "base-project",
   "version": "0.0.1",
-  "description": "API Server running with NodeJS",
+  "description": "Recruitment test for WInn SAS.",
   "main": "server.js",
   "author": "Médéric Salles",
   "license": "ISC",
