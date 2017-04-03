@@ -75,5 +75,5 @@ To apply :
 
 Do not write a presentation letter, answer shortly ;)
 
-Send us the code to : msalles@w-inn.eu
+Send us the url of your fork to : msalles@w-inn.eu
 If your code is good enough, we'll meet in our offices !
