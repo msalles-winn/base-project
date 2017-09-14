@@ -16,53 +16,48 @@ We start the server with following command : npm start, do not forget tests (Moc
 
 Do the first list of tasks. And, depending on the position you are applying to, do some extra tasks ...
 
-### Applying to a Full stack position ?
+### Applying to a Full stack position ? [1 needed]
 
- - Create "Insert" and "Delete" routes for the transport object
- - Make a minimal frontend with Angular 1 or 2 for add, remove, see transports
- - Use Object Oriented Programming and return all transports with address corresponding to the departure and end points using online maps services
- - With ES6 notation, create an object "Transport" and all getters and setters
- - Load JSON file from object, read transport list from Transport object
+ - Create "Insert" and "Delete" routes for the transport object ;
+ - Make a minimal frontend with Angular 1 or 2 for add, remove, see transports ;
+ - Use Object Oriented Programming and return all transports with address corresponding to the departure and end points using online maps services ;
+ - With ES6 notation, create an object "Transport" and all getters and setters ;
+ - Load JSON file from object, read transport list from Transport object ;
 
 
-### Applying to a Frontend position ?
+### Applying to a Frontend position ? [No opened job]
 
  - Create a complete frontend with design, AngularJS 1 or 2 :
-    - All responsive
-    - List all the available transports
-    - The user can select which trip he wants to show on the map
-    - Make it nice to look at and easy to use
- - Test the frontend
+    - All responsive ;
+    - List all the available transports ;
+    - The user can select which trip he wants to show on the map ;
+    - Make it nice to look at and easy to use ;
+ - Test the frontend ;
 
-### Applying to a Backend position ?
+### Applying to a Backend position ? [1 needed]
 
- - Use Object Oriented Programming and return all transports with address corresponding to the departure and end points using online maps services
- - With ES6 notation, create an object "Transport" and all getters and setters
- - Load JSON file from object, read transport list from Transport object
- - Use Postgresql to store Transports, load and query for Database
- - Complete the REST API : CRUD on transports, GET, PUT, POST, DELETE
- - Create a sub-route for getting/update/delete informations about vehicule
- - Use JWT to authenticate requests
+ - Write a restful API to manage transports ;
+ - Create SQL database (Postgresql) to store transports ;
+ - Scrap "http://www.reseau-stas.fr/fr/actus-et-infos-reseau/3" and get all news into a JSON array ;
 
+### Applying to a Devops position ? [No opened job]
 
-### Applying to a Devops position ?
+ - Use a Postgresql database for transports ;
+ - Use Docker image ;
+ - Create a scalable image with Docker Compose and replication of database ;
 
- - Use a Postgresql database for transports
- - Use Docker image
- - Create a scalable image with Docker Compose and replication of database
+### Applying to a Data Scientist position ? [No opened job]
 
-### Applying to a Data Scientist position ?
-
- - Scrap informations from the web
- - Show a statistic about the places the transports deal with
- - Explain what informations you could get and what informations you could deduce from data analyse
+ - Scrap informations from the web ;
+ - Show a statistic about the places the transports deal with ;
+ - Explain what informations you could get and what informations you could deduce from data analyse ;
 
 
 ## What will make the difference ?
 
- - Respect your speciality priorities
- - It must work, easy to launch
- - Code quality
+ - Respect your speciality priorities ;
+ - It must work, easy to launch ;
+ - Code quality ;
  - Tested and Documented ...
 
 ## Did you read till the end ?
